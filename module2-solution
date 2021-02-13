@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 2</title>
+    <link rel="stylesheet" href="1st Coursera Code Assignment..css">
+</head>
+<body>
+    <h1>Foodpedia</h1>
+    <div class="row">
+        <div class="box">
+          <div class="chicken">Chicken</div>
+          <div class="isi"> is the most common type of poultry in the world. 
+            Owing to the relative ease and low cost of raising them in comparison to animals such as cattle or hogs.
+          </div>
+        </div>
+
+        <div class="box">
+          <div class="beef">Beef</div>
+          <div class="isi"> is the culinary name for meat from cattle, particularly skeletal muscle. 
+          Humans have been eating beef since prehistoric times. Beef is a source of protein and nutrients.
+          </div>
+        </div>
+        
+        <div class="box box3">
+          <div class="sushi">Sushi</div>
+          <div class="isi"> is a traditional Japanese dish of prepared vinegared rice (鮨飯, sushi-meshi), 
+            usually with some sugar and salt, accompanying a variety of ingredients (ネタ, neta), such as seafood, often raw, and vegetables. 
+          </div>
+        </div>
+    </div>
+</body>
+</html>
